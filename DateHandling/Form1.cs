@@ -36,6 +36,7 @@ namespace DateHandling
             int daysTillDue = timeTillDue.Days;
             MessageBox.Show("Time till birthday: " + daysTillDue, "Hello");
 
+
         }
 
         private void btnExit_Click(object sender, System.EventArgs e)
